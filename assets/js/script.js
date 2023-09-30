@@ -63,7 +63,7 @@
 
         $(".about-video-btn").magnificPopup({
             items: {
-                src: "https://www.youtube.com/watch?v=j0hcRDypgmY"
+                src: "https://vimeo.com/758974477"
             },
             type: "iframe",
             iframe: {
@@ -85,7 +85,7 @@
 
         $(".video-btn").magnificPopup({
             items: {
-                src: "https://www.youtube.com/watch?v=j0hcRDypgmY"
+                src: "https://vimeo.com/758974477"
             },
             type: "iframe",
             iframe: {
