@@ -11,8 +11,8 @@
         })
 
         /*------------------
-           back to top
-       ------------------*/
+            back to top
+        ------------------*/
         $(document).on('click', '.back-to-top', function () {
             $("html,body").animate({
                 scrollTop: 0
